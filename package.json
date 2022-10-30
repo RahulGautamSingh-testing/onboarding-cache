@@ -1,6 +1,6 @@
 {
 "dependencies": {
-"xmldoc": "1.1.0",
+"xmldoc": "1.2.0",
   "safe-stable-stringify": "2.1.0"
 }
 }
