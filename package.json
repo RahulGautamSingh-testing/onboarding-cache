@@ -1,5 +1,5 @@
 {
-  "name": "lol",
+  "name": "modified_name",
 "dependencies": {
 "xmldoc": "1.1.0",
   "safe-stable-stringify": "2.1.0"
